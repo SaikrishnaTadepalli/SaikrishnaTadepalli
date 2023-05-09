@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm Saikrishna.
+
+I'm a 3rd year Computer Science student at the University of Waterloo with a love for solving complex technical problems. 
+
+My interests include:
+- Algorithms
+- Machine Learning
+- Compilers
+- Systems Programming
 
 <!--
 **SaikrishnaTadepalli/SaikrishnaTadepalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
